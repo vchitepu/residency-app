@@ -9,6 +9,7 @@ bin/
 etc/
 share/
 include/
+pyvenv.cfg
 # Distribution / packaging
 .Python
 build/
